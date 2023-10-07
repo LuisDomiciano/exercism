@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DifferenceOfSquaresCalculatorTest" tests="9" skipped="8" failures="0" errors="0" timestamp="2023-10-07T19:59:33" hostname="luis-Nitro-AN515-52" time="0.064">
+  <properties/>
+  <testcase name="testDifferenceOfSquaresUpToHundred" classname="DifferenceOfSquaresCalculatorTest" time="0.003">
+    <skipped/>
+  </testcase>
+  <testcase name="testSquareOfSumUpToOne" classname="DifferenceOfSquaresCalculatorTest" time="0.057"/>
+  <testcase name="testSquareOfSumUpToHundred" classname="DifferenceOfSquaresCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDifferenceOfSquaresUpToOne" classname="DifferenceOfSquaresCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSumOfSquaresUpToHundred" classname="DifferenceOfSquaresCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSquareOfSumUpToFive" classname="DifferenceOfSquaresCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDifferenceOfSquaresUpToFive" classname="DifferenceOfSquaresCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSumOfSquaresUpToOne" classname="DifferenceOfSquaresCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSumOfSquaresUpToFive" classname="DifferenceOfSquaresCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
